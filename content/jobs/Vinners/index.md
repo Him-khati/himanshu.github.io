@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+date: '2018-12-21'
+title: 'Co-founder and Lead Android Developer'
+company: 'Vinners'
 location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+range: 'July 2018 - August 2021'
+url: 'https://www.google.com/search?q=vinners+afterwork+sol'
 ---
 
 - Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
