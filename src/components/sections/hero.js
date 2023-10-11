@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
+        I’m a software engineer specializing in building Android apps.
+        Currently exploring Flutter, iOS and Kotlin Multiplatform. I work
         at{' '}
         <a href="https://gigforce.in/" target="_blank" rel="noreferrer">
           Gigforce
@@ -81,7 +81,7 @@ const Hero = () => {
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      My Resume
     </a>
   );
 
