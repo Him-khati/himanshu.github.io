@@ -65,9 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building Android apps.
-        Currently exploring Flutter, iOS and Kotlin Multiplatform. I work
-        at{' '}
+        I’m a software engineer specializing in building Android apps. Currently exploring Flutter,
+        iOS and Kotlin Multiplatform. I work at{' '}
         <a href="https://gigforce.in/" target="_blank" rel="noreferrer">
           Gigforce
         </a>
@@ -77,8 +76,7 @@ const Hero = () => {
   );
   const five = (
     <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://github.com/Him-khati/himanshu.github.io/blob/main/static/resume-himanshu.pdf"
       target="_blank"
       rel="noreferrer">
       My Resume
