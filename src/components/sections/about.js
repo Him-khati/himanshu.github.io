@@ -135,9 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Himanshu Khati. I am software engineer developing Android apps for more
-              than 6 Years. I am passionate about mobile and I'm always seeking to grow my skills
-              and work with teams who share the same passion.
+              Hi! My name is Himanshu Khati. I am software engineer developing native{' '}
+              <a href="https://developer.android.com/studio">Android</a>, apps for more than 6
+              Years. I am passionate about mobile and I'm always seeking to grow my skills and work
+              with teams who share the same passion.
             </p>
 
             <p>
