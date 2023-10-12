@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Mera Munshi'
 cover: './mera-munshi.png'
 external: 'https://play.google.com/store/apps/details?id=mobile.meramunshi&hl=en-IN'

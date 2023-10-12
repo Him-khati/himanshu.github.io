@@ -76,7 +76,7 @@ const Hero = () => {
   );
   const five = (
     <a
-      className="resume-link"
+      className="email-link"
       href="https://github.com/Him-khati/himanshu.github.io/blob/main/static/resume-himanshu.pdf"
       target="_blank"
       rel="noreferrer">

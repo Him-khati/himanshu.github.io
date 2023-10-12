@@ -266,9 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a
-              href="https://github.com/Him-khati/himanshu.github.io/blob/main/static/resume-himanshu.pdf"
-              className="resume-link">
+            <a href="/resume-himanshu.pdf" className="resume-link">
               Resume
             </a>
           </nav>

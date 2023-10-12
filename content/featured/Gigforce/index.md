@@ -1,13 +1,13 @@
 ---
-date: '2'
+date: '1'
 title: 'Gigforce App'
 cover: './gigforce-app.png'
 github: ''
-android: 'https://play.google.com/store/apps/details?id=com.gigforce.app&hl=en_US'
+external: 'https://play.google.com/store/apps/details?id=com.gigforce.app&hl=en_US'
 tech:
   - Kotlin
   - Firebase
-  - DataBinding
+  - Hilt
   - Android Jetpack
   - Coroutines
 company: 'Gigforce'
