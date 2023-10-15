@@ -3,6 +3,7 @@ date: '2018-12-29'
 title: 'Mera Munshi'
 external: 'https://play.google.com/store/apps/details?id=mobile.meramunshi&hl=en-IN'
 android: 'https://play.google.com/store/apps/details?id=mobile.meramunshi&hl=en-IN'
+ios: ''
 tech:
   - Kotlin
   - Work Manager

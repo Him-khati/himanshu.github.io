@@ -2,6 +2,7 @@
 date: '2018-12-29'
 title: 'Gigforce App'
 external: 'https://play.google.com/store/apps/details?id=com.gigforce.app&hl=en_US'
+ios: ''
 tech:
   - Kotlin
   - Firebase

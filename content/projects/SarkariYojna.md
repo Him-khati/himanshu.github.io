@@ -2,6 +2,7 @@
 date: '2018-12-29'
 title: 'Sarkari Yojna'
 github: 'https://github.com/Him-khati/sarkari_yojna'
+ios: ''
 tech:
   - Compose
   - Coroutines

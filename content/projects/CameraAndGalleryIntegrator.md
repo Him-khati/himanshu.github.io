@@ -2,6 +2,7 @@
 date: '2018-12-29'
 title: 'Camera and Gallery Integrator Lib for Android'
 github: 'https://github.com/vinnersafterwork/camera_intergrator'
+ios: ''
 tech:
   - Android Library
   - Glide

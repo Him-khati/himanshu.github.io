@@ -4,6 +4,7 @@ title: 'Cms Electricals'
 github: ''
 external: 'https://play.google.com/store/apps/details?id=com.cmselectricals25&hl=en_IN&gl=US'
 android: 'https://play.google.com/store/apps/details?id=com.cmselectricals25&hl=en_IN&gl=US'
+ios: ''
 tech:
   - Android
   - Retrofit
