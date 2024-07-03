@@ -208,7 +208,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="/resume-himanshu.pdf"
+      href="/Resume-Himanshu-Android-and-Flutter.pdf"
       target="_blank"
       rel="noopener noreferrer">
       Resume

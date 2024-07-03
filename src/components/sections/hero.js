@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://github.com/Him-khati/himanshu.github.io/blob/main/static/resume-himanshu.pdf"
+      href="https://himanshu-khati.netlify.app/Resume-Himanshu-Android-and-Flutter.pdf"
       target="_blank"
       rel="noreferrer">
       My Resume
